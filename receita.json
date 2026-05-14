@@ -1,0 +1,61 @@
+{
+  "ingredientes": {
+    "azeite": "2 colheres de sopa",
+    "cebola": "1 pequena picada",
+    "alho": "2 dentes picados",
+    "cogumelos": "200g fatiados",
+    "arroz": "1 chávena",
+    "agua": "2 chávenas",
+    "sal": "q.b.",
+    "pimenta": "q.b.",
+    "salsa": "a gosto"
+  },
+  "parametros": {
+    "panela": "panela média",
+    "fogo": "médio"
+  },
+  "passos": [
+    {
+      "id": 1,
+      "acao": "aquecer",
+      "mensagem": "Aquecer o azeite (2 colheres de sopa) na panela média em fogo médio",
+      "tempo": 0
+    },
+    {
+      "id": 2,
+      "acao": "refogar",
+      "mensagem": "Refogar a cebola (1 pequena picada) e o alho (2 dentes picados)",
+      "tempo": 0
+    },
+    {
+      "id": 3,
+      "acao": "adicionar",
+      "mensagem": "Adicionar os cogumelos (200g fatiados) e cozinhar até dourar",
+      "tempo": 0
+    },
+    {
+      "id": 4,
+      "acao": "juntar",
+      "mensagem": "Juntar o arroz (1 chávena) e envolver bem",
+      "tempo": 0
+    },
+    {
+      "id": 5,
+      "acao": "adicionar",
+      "mensagem": "Adicionar a agua (2 chávenas), o sal (q.b.) e a pimenta (q.b.)",
+      "tempo": 0
+    },
+    {
+      "id": 6,
+      "acao": "cozinhar",
+      "mensagem": "Cozinhar por 15 minutos",
+      "tempo": 900
+    },
+    {
+      "id": 7,
+      "acao": "finalizar",
+      "mensagem": "Finalizar com a salsa (a gosto)",
+      "tempo": 0
+    }
+  ]
+}
